@@ -1,2 +1,4 @@
-# Python_Task_1
-Python Programming Task
+# Python Task 1
+Python Basic Programming
+
+Simple Example Programs in Python to brush up the fudametals.
